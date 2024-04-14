@@ -5,6 +5,7 @@
 
 ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRicardos&show_icons=true&theme=holi)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRicardos&size_weight=0.5&count_weight=0.5&theme=holi)
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"></br>
@@ -21,7 +22,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </div></br>
 
-Sou apaixonado por desenvolvimento front-end, mas como sou curioso queo ver como funciona as outras áreas da tecnologia kkk
+Sou apaixonado por desenvolvimento front-end, mas como sou curioso quero ver as outras tecnologias kkk
 
 
 
