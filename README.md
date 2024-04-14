@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuelric4rdo/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-ricardo-28880a24b/)
 
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRicardos&show_icons=true&theme=holi)
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=Nsei&show_icons=true&theme=holi)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRicardos&size_weight=0.5&count_weight=0.5&theme=holi)
 ## Tecnologias que eu uso no meu dia
