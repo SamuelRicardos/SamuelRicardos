@@ -172,7 +172,7 @@ Me chamo Samuel Ricardo, tenho 20 anos e moro em Brasília, Distrito Federal, so
     alt="Figma"
     title="Figma" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; padding-top: 10px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 <img 
@@ -180,7 +180,7 @@ Me chamo Samuel Ricardo, tenho 20 anos e moro em Brasília, Distrito Federal, so
     alt="jUnit"
     title="jUnit" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; padding-top: 10px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" 
 />
 <img 
@@ -188,7 +188,7 @@ Me chamo Samuel Ricardo, tenho 20 anos e moro em Brasília, Distrito Federal, so
     alt="SonarQube"
     title="SonarQube" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; padding-top: 10px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" 
 />
 
