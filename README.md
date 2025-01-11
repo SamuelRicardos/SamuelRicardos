@@ -188,7 +188,7 @@ Me chamo Samuel Ricardo, tenho 20 anos e moro em Brasília, Distrito Federal, so
     alt="SonarQube"
     title="SonarQube" 
     width="30px" 
-    style="padding-right: 10px; padding-top: 10px" 
+    style="padding-top: 50px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" 
 />
 
