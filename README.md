@@ -183,7 +183,7 @@ Me chamo Samuel Ricardo, tenho 20 anos e moro em Brasília, Distrito Federal, so
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRicardos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
