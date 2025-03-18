@@ -109,7 +109,7 @@ Me chamo Samuel Ricardo, tenho 20 anos e moro em Brasília, Distrito Federal, so
     title="NextJS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/next/next-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
     align="left" 
@@ -125,7 +125,7 @@ Me chamo Samuel Ricardo, tenho 20 anos e moro em Brasília, Distrito Federal, so
     title="Vite"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs.svg" 
 />
 <img 
     align="left" 
