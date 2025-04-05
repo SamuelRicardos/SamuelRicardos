@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Samuel Ricardo, tenho 20 anos e moro em Brasília, Distrito Federal, sou desenvolvedor fullstack, graduado em Análise e Desenvolvimento de Sistemas na faculdade Senac DF e sou pós-graduando em Desenvolvimento fullstack na Unyleya EAD. Link do meu portfolio: [Portfolio - Samuel Ricardo](https://samuelricardos.github.io/portfolio-atualizado/).
+Me chamo Samuel Ricardo, tenho 20 anos e moro em Brasília, Distrito Federal, sou desenvolvedor fullstack, graduado em Análise e Desenvolvimento de Sistemas na faculdade Senac DF e sou pós-graduando em Desenvolvimento fullstack na Unyleya EAD. Link do meu portfolio: [Portfolio - Samuel Ricardo](https://portfolio-samuelricardo.vercel.app/).
 
 <p align="left">
 <a href="https://www.linkedin.com/in/samuel-ricardo-28880a24b/" target="_blank">
